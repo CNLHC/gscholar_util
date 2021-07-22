@@ -10,6 +10,6 @@
     "socks-proxy-agent": "^5.0.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5",
-    "xlsx": "^0.16.3"
+    "xlsx": "^0.17.0"
   }
 }
